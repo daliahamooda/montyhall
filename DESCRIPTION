@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Create a new Monty Hall Problem game
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dalia", "Hamooda", , "dahamood@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:  generates a new game that consists of two door with goats behind them, and one with a car.
+depends:
+    dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
